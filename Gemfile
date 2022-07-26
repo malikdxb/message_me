@@ -75,3 +75,6 @@ group :test do
 end
 
 gem "jsbundling-rails", "~> 1.0"
+gem 'rails-controller-testing'
+gem "jquery-rails"
+gem "bootstrap"
